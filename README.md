@@ -22,3 +22,5 @@ Conclusion
 This analysis demonstrates that a city's "Market DNA" is a better indicator of future stability than its price tag alone. It’s a powerful tool for identifying investment opportunities or housing policy needs.
 
 📊 Interactive Dashboard: https://public.tableau.com/authoring/US_Housing_Market_Segmentation_Analysis/U_S_HousingMarketDNA2026Analysis#1
+
+<img width="1369" height="1181" alt="image" src="https://github.com/user-attachments/assets/70c144c1-70a5-49fe-bb91-570de313da32" />
